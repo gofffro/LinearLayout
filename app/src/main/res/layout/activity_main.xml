@@ -28,8 +28,8 @@
     <TextView
         android:id="@+id/textViewEnglish"
         android:layout_width="wrap_content"
+        android:text="@string/english_poem"
         android:layout_height="wrap_content"
-        android:text="If the bears were bees,\nThen they would not care\nNever thought\nBuilding a house so high!"
         android:textSize="16sp"/>
 
 </LinearLayout>
